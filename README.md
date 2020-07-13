@@ -1,11 +1,11 @@
 ### Hi there 👋
 🌱 I’m currently learning:
-*Python
-*Django
-*Flask
-*Javascript
-*HTML & CSS
-*Bootstrap 4
+Python,
+Django,
+Flask,
+Javascript,
+HTML & CSS,
+Bootstrap 4
 <!--
 **antonblue16/antonblue16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
