@@ -4,8 +4,10 @@ Nice to meet you everyone :)
 
 🌱 I’m currently learning:
 Python,
+Java,
 Django,
-Flask,
+Spring,
 Javascript,
 HTML & CSS,
-Bootstrap 4
+Bootstrap
+Tailwind,
